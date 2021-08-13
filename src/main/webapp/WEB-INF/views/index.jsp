@@ -1,13 +1,12 @@
-<%@ include file="../partials/taglibs.jsp" %>
 <!DOCTYPE html>
-<html>
-<head>
-    <jsp:include page="../partials/head.jsp"/>
-    <title>Home</title>
-</head>
+<%@ taglib prefix="c" uri="http://java.sun.com/jsp/jstl/core"%>
+<html lang="en">
+
 <body>
-<div class="container">
-    <h1>Welcome in ${message}</h1>
-</div>
+    <h1>Hello, World!!!</h1>
+
+
+    
 </body>
+
 </html>
