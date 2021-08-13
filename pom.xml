@@ -4,11 +4,11 @@
     <modelVersion>4.0.0</modelVersion>
 
     <groupId>com.luwojtaszek.springbootjsp</groupId>
-    <artifactId>springbootjsp</artifactId>
+    <artifactId>success1</artifactId>
     <version>0.0.1-SNAPSHOT</version>
     <packaging>jar</packaging>
 
-    <name>springbootjsp</name>
+    <name>success1</name>
     <description>An example of Spring Boot application that uses an embedded tomcat and jsp.</description>
 
     <parent>
